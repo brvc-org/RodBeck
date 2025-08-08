@@ -27,6 +27,46 @@ Natural Language Processing (NLP):
 - "in" pathway lingers, while "to" activates new pathway
 - Two pathways "co-mingle," creating a new understanding
 
+Domains registered/used, via domains.google:
+
+regalgfx.com (6 May 2020)
+
+regal.graphics (23 May 2020)
+
+gfx.llc (23 May 2020)
+
+regalholdings.biz (23 May 2020)
+
+regal.technology (11 August 2020)
+
+regalventures.co (11 August 2020)
+
+fivesecondcovidtest.com (13 August 2020)
+
+fivesecondcovidtest.org (13 August 2020)
+
+5secondcovidtest.com (13 August 2020)
+
+5secondcovid.com (13 August 2020)
+
+regaltech.llc (13 August 2020)
+
+rodbeckmethod.com (19 August 2020)
+
+rodbeckmethod.net (19 August 2020)
+
+rodbeckmethod.org (19 August 2020)
+
+therbeckmethod.org (19 August 2020)
+
+robemethod.com (21 August 2020)
+
+robemethod.org (21 August 2020)
+
+robemethod.net (21 August 2020)
+
+brockthibodeaux.me (15 September 2020)
+
 
 Developed by Brock Angelle Thibodeaux, (then) Founder, President and CEO of regal.tech, llc from 1 March 2020 - 3 April 2021
 
