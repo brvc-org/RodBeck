@@ -30,4 +30,6 @@ Natural Language Processing (NLP):
 
 Developed by Brock Angelle Thibodeaux, (then) Founder, President and CEO of regal.tech, llc from 1 March 2020 - 3 April 2021
 
+Note: llc active from 18 August 2020 - 4 April 2021
+
 AI/ML IP acquired 4 April 2021
