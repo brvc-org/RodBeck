@@ -7,9 +7,44 @@ When pitched to investors in May 2020, it needed a name, so named it in honor of
 https://www.nola.com/aca-covidthibodeaux-006-101320/image_c902da5b-f996-5f1e-9bbc-013a28c93dad.html
 
 https://www.katc.com/news/coronavirus/ul-grad-and-former-u-s-army-ranger-developing-technology-to-slow-the-spread-of-covid-19
+
 _____________________________________
 
 Self-learning, evolving, backpropagated AI enwrapping + within app/software/Docker/Bucket/Container/”Block”
+
+Evolutionary artificial intelligence and COVID-19
+
+Using the Google Cloud AI platform, pioneered large-scale, evolutionary, rapidly-scaling, back-propagated artificial intelligence and machine learning tools, which helped determine where cases are, where the hot spots are and predicts where the next outbreak is going to happen.
+
+Created after recovering from contracting Coronavirusdisease2019 in early February 2020, while working as a Sr. Azure Cloud Engineer for Microsoft, as a response tool for healthcare and frontline workers during the early stages of the outbreak of the COVID-19 pandemic.
+
+ INTERPOLATION(S) ON IMG_4742 AND IMG_9897:
+
+ https://github.com/satoshiofficial/RodBeck/blob/c15108b13e966dc80d41139d5b73f4e94af0bde2/IMG_4742.jpeg
+
+ https://github.com/satoshiofficial/RodBeck/blob/c15108b13e966dc80d41139d5b73f4e94af0bde2/IMG_9897.JPG
+ 
+ Notes from a use-case stemming from this^the-landscape-moded-iOS-img-featured:
+Example of NoCode UI breakdown/walkthrough,  using the One Time Pad (OTP) methodology.  Here we see easily the superior force USSF jurisdictionally in-future 'grey-area,' ran through a rudimentary GFX locale, with a PublicPrivate Node Operator (could be Anyone) attempting to hash(No#) notationally, w/out Core access, re possible STOP|GO points of failure.
+preWeb2 code viz can be seen, lowerrighthandcorner
+
+Topics of note:
+International Date Line (including /all USRailroad $USC &+ La. pre-post-1803 [this'll be where Generative Automatic Machine Learning algos with simple arithmetic continuously do/will do what classical recursion usually does for nonModernAI systems with increasing levels of self-learning, sans the -referential fall-through that 'Classical' Code (anything preOnChipNeuralArchitecture) usually needs constant supervision/assistance with, not mentioning strictly UNIXbased systems of note, proprietary or not [1]
+
+§NoTimeZoneGeneralSpace2019Onward  
+(,)  dirac notation driven  InteriorLanguageMakeups  ->  Beyond GCPlatform
+No feed-in for §USC terminology et al
+Source: Concepts iPadOS app, with Apple Pencil
+IYI  FTX at time = sufficient example, barring any unknown-unknowns,at-time-of-this-Writing, of another complete antecedent to this kind of BacktoBasics InfoSec Cryptographic approach
+Capital-cost-at-timeof: >$250
+Machine Learning needs remembering as well when Show(s) of Force (credit: Jason Powell, USSF) afford .gov Govermental bodies the means to become gov. with zero recompence, or accountability.  
+con't next post
+
+[1] UNIX and O/S 2, for instance, do not comprehend being told 1988 as year is seperate from CloudHosted vGPU-running multiDistros, and that's including Docker, pre2021 (it's worth mentioning; listen to Apple when they don't have to say a single word about Books.app; one can see easily things breaking down, file extension wise, preFeedForward [1a]
+[1a] RecursionLoops
+
+END INTERPOLATION(S) ON IMG_4742 AND IMG_9897
+
 
 Natural Language Processing (NLP):
 - A path on the plain - speech = one-dimensional, environment = two-dimensional
