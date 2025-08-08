@@ -20,9 +20,9 @@ Created after recovering from contracting Coronavirusdisease2019 in early Februa
 
  INTERPOLATION(S) ON IMG_4742 AND IMG_9897:
 
- https://github.com/satoshiofficial/RodBeck/blob/c15108b13e966dc80d41139d5b73f4e94af0bde2/IMG_4742.jpeg
+https://github.com/brvc-org/RodBeck/blob/6122d7bc3163ac02d4913c5b7fa33d4f29e9976a/IMG_4742.jpeg
 
- https://github.com/satoshiofficial/RodBeck/blob/c15108b13e966dc80d41139d5b73f4e94af0bde2/IMG_9897.JPG
+ https://github.com/brvc-org/RodBeck/blob/6122d7bc3163ac02d4913c5b7fa33d4f29e9976a/IMG_9897.JPG
  
  Notes from a use-case stemming from this^the-landscape-moded-iOS-img-featured:
 Example of NoCode UI breakdown/walkthrough,  using the One Time Pad (OTP) methodology.  Here we see easily the superior force USSF jurisdictionally in-future 'grey-area,' ran through a rudimentary GFX locale, with a PublicPrivate Node Operator (could be Anyone) attempting to hash(No#) notationally, w/out Core access, re possible STOP|GO points of failure.
