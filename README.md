@@ -2,15 +2,27 @@
 
 Code snippets, research materials, derivatives, notes, drafts, ideas and docs (the ones that were not acquired) from the Real-time Operations Data for Blockchain Entity-based Covid-19 Knowledgebases/Kmapping (RodBeck) Method, a proprietary cloud-based, multi-domain, multi-CNN evolutionary (generative) AI/ML solution for ER staff and frontline workers
 
-When pitched to investors in May 2020, it needed a name, so named it in honor of Cryptologic Linguist MSG Antonio "Rod" Rodriguez (KIA 8 February 2020, Nangarhar Province, AF) and Casey Beckwith (9 September 1987 - 16 October 2015) RIP
+----------------
+
+When pitched to investors in May 2020, it needed a name, so named it in honor of Cryptologic Linguist MSG Antonio "Rod" Rodriguez (KIA 8 February 2020, Nangarhar Province, AF)
+
+https://www.nsa.gov/Portals/75/documents/about/cryptologic-heritage/cryptologic-memorial/SFC_Antonio_Rodriguez_FINAL.pdf
+
+and Casey Beckwith (9 September 1987 - 16 October 2015)
+
+https://www.northsidechapel.com/m/obituaries/kathryn-casey-beckwith/Memories
+
+hence the portmanteau/acronym-title: "RodBeck (Realtime Operations Data for Blockchain Entity-based COVID19 Knowledgebases/Kmapping)  Method"
+
+Rest In Peace
+
+----------------
 
 https://web.archive.org/web/20210522130100/https://www.crunchbase.com/organization/regal-tech
 
 https://www.nola.com/aca-covidthibodeaux-006-101320/image_c902da5b-f996-5f1e-9bbc-013a28c93dad.html
 
-https://www.katc.com/news/coronavirus/ul-grad-and-former-u-s-army-ranger-developing-technology-to-slow-the-spread-of-covid-19
-
-_____________________________________
+https://www.katc.com/news/coronavirus/ul-grad-and-former-u-s-army-ranger-developing-technology-to-slow-the-spread-of-covid
 
 Self-learning, evolving, backpropagated AI enwrapping + within app/software/Docker/Bucket/Container/”Block”
 
@@ -22,9 +34,9 @@ Created after recovering from contracting Coronavirusdisease2019 in early Februa
 
  INTERPOLATION(S) ON IMG_4742 AND IMG_9897:
 
-https://github.com/brvc-org/RodBeck/blob/6122d7bc3163ac02d4913c5b7fa33d4f29e9976a/IMG_4742.jpeg
+ https://github.com/satoshiofficial/RodBeck/blob/c15108b13e966dc80d41139d5b73f4e94af0bde2/IMG_4742.jpeg
 
- https://github.com/brvc-org/RodBeck/blob/6122d7bc3163ac02d4913c5b7fa33d4f29e9976a/IMG_9897.JPG
+ https://github.com/satoshiofficial/RodBeck/blob/c15108b13e966dc80d41139d5b73f4e94af0bde2/IMG_9897.JPG
  
  Notes from a use-case stemming from this^the-landscape-moded-iOS-img-featured:
 Example of NoCode UI breakdown/walkthrough,  using the One Time Pad (OTP) methodology.  Here we see easily the superior force USSF jurisdictionally in-future 'grey-area,' ran through a rudimentary GFX locale, with a PublicPrivate Node Operator (could be Anyone) attempting to hash(No#) notationally, w/out Core access, re possible STOP|GO points of failure.
